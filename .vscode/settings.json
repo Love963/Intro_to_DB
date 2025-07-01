@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "database": "alx_book_store",
+            "name": "MyLocalDB",
+            "username": "tamirat",
+            "group": "ALX Projects",
+            "connectionTimeout": 40
+        }
+    ]
+}
